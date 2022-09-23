@@ -1,0 +1,4 @@
+- create container using <i>container</i> class
+- To center this container use <i>mx-auto</i> class.
+- mx or my -> margin in x and y axis.
+-
