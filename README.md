@@ -15,7 +15,7 @@
 
         1. npm init -y
         2. create src/input.css and public/css and public/index.html
-        3. npm install tailwindcss and add a path of html files in content section of tailwind.config.js file.
-        4. npx tailwind init
-        5. add a script in package.json -> "build":"tailwindcss -i ./src/input.css -o ./public/css/output.css"
+        3. npm install tailwindcss
+        4. npx tailwind init and add a path of html files in content section of tailwind.config.js file.
+        5. add a script in package.json -> "build":"tailwindcss -i ./src/input.css -o ./public/css/output.css --watch"
         6.link html to css
